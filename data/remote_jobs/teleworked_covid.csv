@@ -1,0 +1,403 @@
+Area,Date,Number,MOE,Percent,Percent MOE,Week Num,Month,Year,State Abbr
+United States,"April 14, 2021",66724760,1016724,27.0,0.4,28 ,April 14, 2021,
+United States,"April 28, 2021",64914068,1190413,26.2,0.5,29 ,April 28, 2021,
+United States,"May 12, 2021",62836106,1116473,25.4,0.4,30 ,May 12, 2021,
+United States,"May 26, 2021",60477604,1044606,24.5,0.4,31 ,May 26, 2021,
+United States,"June 9, 2021",58631993,1063390,23.7,0.4,32 ,June 9, 2021,
+United States,"June 23, 2021",57995930,1150196,23.5,0.5,33 ,June 23, 2021,
+Alabama,"April 14, 2021",607624,83935,16.6,2.3,28 ,April 14, 2021,AL
+Alaska,"April 14, 2021",97067,11393,18.7,2.2,28 ,April 14, 2021,AK
+Arizona,"April 14, 2021",1477384,162998,25.9,2.8,28 ,April 14, 2021,AZ
+Arkansas,"April 14, 2021",345534,57983,15.4,2.6,28 ,April 14, 2021,AR
+California,"April 14, 2021",9631328,343783,32.7,1.2,28 ,April 14, 2021,CA
+Colorado,"April 14, 2021",1613252,123335,36.1,2.8,28 ,April 14, 2021,CO
+Connecticut,"April 14, 2021",838426,70922,30.9,2.6,28 ,April 14, 2021,CT
+Delaware,"April 14, 2021",233623,33084,30.7,4.3,28 ,April 14, 2021,DE
+District of Columbia,"April 14, 2021",297332,14799,55.1,2.7,28 ,April 14, 2021,DC
+Florida,"April 14, 2021",3779113,319393,22.2,1.8,28 ,April 14, 2021,FL
+Georgia,"April 14, 2021",1928670,194785,24.6,2.4,28 ,April 14, 2021,GA
+Hawaii,"April 14, 2021",228123,28563,21.6,2.7,28 ,April 14, 2021,HI
+Idaho,"April 14, 2021",279163,35934,20.4,2.6,28 ,April 14, 2021,ID
+Illinois,"April 14, 2021",2757848,202549,29.3,2.2,28 ,April 14, 2021,IL
+Indiana,"April 14, 2021",939297,94320,18.9,1.9,28 ,April 14, 2021,IN
+Iowa,"April 14, 2021",559860,81832,24.1,3.5,28 ,April 14, 2021,IA
+Kansas,"April 14, 2021",497636,83320,23.3,3.9,28 ,April 14, 2021,KS
+Kentucky,"April 14, 2021",567061,88069,17.1,2.7,28 ,April 14, 2021,KY
+Louisiana,"April 14, 2021",654108,148650,19.4,4.4,28 ,April 14, 2021,LA
+Maine,"April 14, 2021",265399,36209,25.1,3.5,28 ,April 14, 2021,ME
+Maryland,"April 14, 2021",1846800,126332,40.8,2.7,28 ,April 14, 2021,MD
+Massachusetts,"April 14, 2021",2052679,138407,39.1,2.7,28 ,April 14, 2021,MA
+Michigan,"April 14, 2021",1996300,156048,26.3,2.1,28 ,April 14, 2021,MI
+Minnesota,"April 14, 2021",1435884,102787,34.0,2.4,28 ,April 14, 2021,MN
+Mississippi,"April 14, 2021",254229,56407,11.7,2.6,28 ,April 14, 2021,MS
+Missouri,"April 14, 2021",1049631,122601,22.8,2.7,28 ,April 14, 2021,MO
+Montana,"April 14, 2021",124222,23469,15.0,2.8,28 ,April 14, 2021,MT
+Nebraska,"April 14, 2021",361595,46954,25.9,3.3,28 ,April 14, 2021,NE
+Nevada,"April 14, 2021",438083,64936,18.1,2.7,28 ,April 14, 2021,NV
+New Hampshire,"April 14, 2021",336543,40086,31.4,3.7,28 ,April 14, 2021,NH
+New Jersey,"April 14, 2021",2138322,154105,32.2,2.4,28 ,April 14, 2021,NJ
+New Mexico,"April 14, 2021",373343,38464,23.6,2.5,28 ,April 14, 2021,NM
+New York,"April 14, 2021",4569335,378115,31.4,2.6,28 ,April 14, 2021,NY
+North Carolina,"April 14, 2021",2049933,217862,25.4,2.7,28 ,April 14, 2021,NC
+North Dakota,"April 14, 2021",86944,17940,15.5,3.2,28 ,April 14, 2021,ND
+Ohio,"April 14, 2021",1993112,257344,23.0,3.0,28 ,April 14, 2021,OH
+Oklahoma,"April 14, 2021",478414,95119,16.4,3.3,28 ,April 14, 2021,OK
+Oregon,"April 14, 2021",950628,71753,28.8,2.2,28 ,April 14, 2021,OR
+Pennsylvania,"April 14, 2021",2615446,205064,27.1,2.1,28 ,April 14, 2021,PA
+Rhode Island,"April 14, 2021",245837,31344,30.7,4.0,28 ,April 14, 2021,RI
+South Carolina,"April 14, 2021",775874,148174,19.4,3.7,28 ,April 14, 2021,SC
+South Dakota,"April 14, 2021",98583,24907,15.3,3.9,28 ,April 14, 2021,SD
+Tennessee,"April 14, 2021",1022178,114366,19.6,2.2,28 ,April 14, 2021,TN
+Texas,"April 14, 2021",5478566,453418,25.5,2.1,28 ,April 14, 2021,TX
+Utah,"April 14, 2021",770718,79938,33.4,3.5,28 ,April 14, 2021,UT
+Vermont,"April 14, 2021",149964,22613,31.1,4.7,28 ,April 14, 2021,VT
+Virginia,"April 14, 2021",2287648,128339,35.5,2.0,28 ,April 14, 2021,VA
+Washington,"April 14, 2021",1809927,113054,30.7,1.9,28 ,April 14, 2021,WA
+West Virginia,"April 14, 2021",231275,53070,16.9,3.9,28 ,April 14, 2021,WV
+Wisconsin,"April 14, 2021",1036022,117556,23.4,2.6,28 ,April 14, 2021,WI
+Wyoming,"April 14, 2021",68876,15857,15.8,3.6,28 ,April 14, 2021,WY
+Alabama,"April 28, 2021",487122,79191,13.1,2.1,29 ,April 28, 2021,AL
+Alaska,"April 28, 2021",130880,18169,25.1,3.5,29 ,April 28, 2021,AK
+Arizona,"April 28, 2021",1597812,167560,28.1,2.9,29 ,April 28, 2021,AZ
+Arkansas,"April 28, 2021",381061,87260,16.9,3.9,29 ,April 28, 2021,AR
+California,"April 28, 2021",9198726,485364,31.2,1.7,29 ,April 28, 2021,CA
+Colorado,"April 28, 2021",1621194,120208,36.5,2.7,29 ,April 28, 2021,CO
+Connecticut,"April 28, 2021",786063,54811,29.3,2.0,29 ,April 28, 2021,CT
+Delaware,"April 28, 2021",215804,25757,28.5,3.4,29 ,April 28, 2021,DE
+District of Columbia,"April 28, 2021",310547,21738,57.3,4.1,29 ,April 28, 2021,DC
+Florida,"April 28, 2021",3516790,342704,20.6,2.0,29 ,April 28, 2021,FL
+Georgia,"April 28, 2021",2048277,211054,25.8,2.6,29 ,April 28, 2021,GA
+Hawaii,"April 28, 2021",202543,29691,19.1,2.8,29 ,April 28, 2021,HI
+Idaho,"April 28, 2021",306173,37888,22.3,2.8,29 ,April 28, 2021,ID
+Illinois,"April 28, 2021",2994057,261835,31.7,2.8,29 ,April 28, 2021,IL
+Indiana,"April 28, 2021",989719,149096,19.9,3.0,29 ,April 28, 2021,IN
+Iowa,"April 28, 2021",457931,58045,19.7,2.5,29 ,April 28, 2021,IA
+Kansas,"April 28, 2021",454523,43748,21.3,2.0,29 ,April 28, 2021,KS
+Kentucky,"April 28, 2021",628691,89392,18.9,2.7,29 ,April 28, 2021,KY
+Louisiana,"April 28, 2021",465753,78992,13.7,2.3,29 ,April 28, 2021,LA
+Maine,"April 28, 2021",258612,27301,24.4,2.6,29 ,April 28, 2021,ME
+Maryland,"April 28, 2021",1795019,109544,39.9,2.4,29 ,April 28, 2021,MD
+Massachusetts,"April 28, 2021",1893924,117233,35.9,2.2,29 ,April 28, 2021,MA
+Michigan,"April 28, 2021",1957500,172633,26.3,2.4,29 ,April 28, 2021,MI
+Minnesota,"April 28, 2021",1453823,111659,34.5,2.6,29 ,April 28, 2021,MN
+Mississippi,"April 28, 2021",226707,43388,10.6,2.0,29 ,April 28, 2021,MS
+Missouri,"April 28, 2021",1031493,107199,22.6,2.3,29 ,April 28, 2021,MO
+Montana,"April 28, 2021",150450,27412,18.1,3.3,29 ,April 28, 2021,MT
+Nebraska,"April 28, 2021",339644,31801,24.2,2.3,29 ,April 28, 2021,NE
+Nevada,"April 28, 2021",534787,65697,22.1,2.7,29 ,April 28, 2021,NV
+New Hampshire,"April 28, 2021",315843,22914,29.6,2.1,29 ,April 28, 2021,NH
+New Jersey,"April 28, 2021",2243014,201471,33.4,3.0,29 ,April 28, 2021,NJ
+New Mexico,"April 28, 2021",331079,42071,20.7,2.6,29 ,April 28, 2021,NM
+New York,"April 28, 2021",4172559,320139,28.9,2.1,29 ,April 28, 2021,NY
+North Carolina,"April 28, 2021",1895590,208954,23.6,2.6,29 ,April 28, 2021,NC
+North Dakota,"April 28, 2021",88560,17644,16.0,3.2,29 ,April 28, 2021,ND
+Ohio,"April 28, 2021",1935680,233211,22.2,2.7,29 ,April 28, 2021,OH
+Oklahoma,"April 28, 2021",503842,71337,17.3,2.4,29 ,April 28, 2021,OK
+Oregon,"April 28, 2021",927827,62805,28.2,1.9,29 ,April 28, 2021,OR
+Pennsylvania,"April 28, 2021",2402183,218407,24.9,2.3,29 ,April 28, 2021,PA
+Rhode Island,"April 28, 2021",210360,25910,26.2,3.3,29 ,April 28, 2021,RI
+South Carolina,"April 28, 2021",553833,89612,13.9,2.2,29 ,April 28, 2021,SC
+South Dakota,"April 28, 2021",102523,19309,15.9,3.0,29 ,April 28, 2021,SD
+Tennessee,"April 28, 2021",971913,111036,18.6,2.1,29 ,April 28, 2021,TN
+Texas,"April 28, 2021",5527559,442588,25.7,2.1,29 ,April 28, 2021,TX
+Utah,"April 28, 2021",720963,44886,31.3,2.0,29 ,April 28, 2021,UT
+Vermont,"April 28, 2021",110393,19447,22.9,4.0,29 ,April 28, 2021,VT
+Virginia,"April 28, 2021",2143479,165155,33.2,2.6,29 ,April 28, 2021,VA
+Washington,"April 28, 2021",2052992,119360,34.9,2.0,29 ,April 28, 2021,WA
+West Virginia,"April 28, 2021",158262,23742,11.6,1.7,29 ,April 28, 2021,WV
+Wisconsin,"April 28, 2021",1049784,113746,23.8,2.5,29 ,April 28, 2021,WI
+Wyoming,"April 28, 2021",60206,10064,13.8,2.3,29 ,April 28, 2021,WY
+Alabama,"May 12, 2021",473241,85719,12.8,2.3,30 ,May 12, 2021,AL
+Alaska,"May 12, 2021",123120,14920,23.6,2.8,30 ,May 12, 2021,AK
+Arizona,"May 12, 2021",1445649,110679,25.3,1.9,30 ,May 12, 2021,AZ
+Arkansas,"May 12, 2021",371535,83072,16.6,3.6,30 ,May 12, 2021,AR
+California,"May 12, 2021",8846111,490716,29.9,1.7,30 ,May 12, 2021,CA
+Colorado,"May 12, 2021",1497145,108447,33.6,2.5,30 ,May 12, 2021,CO
+Connecticut,"May 12, 2021",753762,58979,28.1,2.2,30 ,May 12, 2021,CT
+Delaware,"May 12, 2021",202710,23356,26.6,3.1,30 ,May 12, 2021,DE
+District of Columbia,"May 12, 2021",335951,18680,61.6,3.4,30 ,May 12, 2021,DC
+Florida,"May 12, 2021",3388286,267116,19.9,1.6,30 ,May 12, 2021,FL
+Georgia,"May 12, 2021",1747636,158175,22.2,2.0,30 ,May 12, 2021,GA
+Hawaii,"May 12, 2021",235006,39184,22.4,3.7,30 ,May 12, 2021,HI
+Idaho,"May 12, 2021",252124,32059,18.5,2.4,30 ,May 12, 2021,ID
+Illinois,"May 12, 2021",3092053,188646,32.8,2.0,30 ,May 12, 2021,IL
+Indiana,"May 12, 2021",984067,135940,19.8,2.7,30 ,May 12, 2021,IN
+Iowa,"May 12, 2021",428371,57065,18.6,2.5,30 ,May 12, 2021,IA
+Kansas,"May 12, 2021",462835,48862,21.9,2.4,30 ,May 12, 2021,KS
+Kentucky,"May 12, 2021",552029,89045,16.6,2.7,30 ,May 12, 2021,KY
+Louisiana,"May 12, 2021",435086,68426,12.9,2.0,30 ,May 12, 2021,LA
+Maine,"May 12, 2021",224831,42729,21.1,4.0,30 ,May 12, 2021,ME
+Maryland,"May 12, 2021",1719239,119591,38.1,2.7,30 ,May 12, 2021,MD
+Massachusetts,"May 12, 2021",1861042,113973,35.5,2.2,30 ,May 12, 2021,MA
+Michigan,"May 12, 2021",1896971,164683,25.1,2.2,30 ,May 12, 2021,MI
+Minnesota,"May 12, 2021",1310733,81730,31.0,2.0,30 ,May 12, 2021,MN
+Mississippi,"May 12, 2021",304184,78324,14.0,3.6,30 ,May 12, 2021,MS
+Missouri,"May 12, 2021",1000439,120829,21.8,2.6,30 ,May 12, 2021,MO
+Montana,"May 12, 2021",116814,20017,14.2,2.4,30 ,May 12, 2021,MT
+Nebraska,"May 12, 2021",321171,32456,22.7,2.3,30 ,May 12, 2021,NE
+Nevada,"May 12, 2021",420013,56034,17.2,2.3,30 ,May 12, 2021,NV
+New Hampshire,"May 12, 2021",317487,34304,29.5,3.2,30 ,May 12, 2021,NH
+New Jersey,"May 12, 2021",2207028,163299,33.1,2.5,30 ,May 12, 2021,NJ
+New Mexico,"May 12, 2021",361477,30397,22.9,1.9,30 ,May 12, 2021,NM
+New York,"May 12, 2021",4301070,389927,29.8,2.8,30 ,May 12, 2021,NY
+North Carolina,"May 12, 2021",1995712,238580,24.7,2.9,30 ,May 12, 2021,NC
+North Dakota,"May 12, 2021",79704,19782,14.3,3.6,30 ,May 12, 2021,ND
+Ohio,"May 12, 2021",1812257,175905,20.6,2.0,30 ,May 12, 2021,OH
+Oklahoma,"May 12, 2021",520587,82042,17.8,2.8,30 ,May 12, 2021,OK
+Oregon,"May 12, 2021",897223,74524,27.1,2.2,30 ,May 12, 2021,OR
+Pennsylvania,"May 12, 2021",2200038,209904,22.7,2.2,30 ,May 12, 2021,PA
+Rhode Island,"May 12, 2021",219029,27376,27.2,3.5,30 ,May 12, 2021,RI
+South Carolina,"May 12, 2021",589023,113284,14.8,2.9,30 ,May 12, 2021,SC
+South Dakota,"May 12, 2021",103239,16557,16.1,2.6,30 ,May 12, 2021,SD
+Tennessee,"May 12, 2021",1090151,154180,20.8,3.0,30 ,May 12, 2021,TN
+Texas,"May 12, 2021",5171702,440720,24.2,2.1,30 ,May 12, 2021,TX
+Utah,"May 12, 2021",809302,46500,35.0,2.0,30 ,May 12, 2021,UT
+Vermont,"May 12, 2021",122091,19291,25.3,4.0,30 ,May 12, 2021,VT
+Virginia,"May 12, 2021",2067663,144088,32.0,2.2,30 ,May 12, 2021,VA
+Washington,"May 12, 2021",1939146,127876,33.1,2.2,30 ,May 12, 2021,WA
+West Virginia,"May 12, 2021",179503,38210,13.3,2.8,30 ,May 12, 2021,WV
+Wisconsin,"May 12, 2021",1007892,92811,22.8,2.1,30 ,May 12, 2021,WI
+Wyoming,"May 12, 2021",42628,11833,9.8,2.7,30 ,May 12, 2021,WY
+Alabama,"May 26, 2021",568678,117767,15.3,3.2,31 ,May 26, 2021,AL
+Alaska,"May 26, 2021",93726,14245,17.9,2.7,31 ,May 26, 2021,AK
+Arizona,"May 26, 2021",1367357,135842,24.1,2.4,31 ,May 26, 2021,AZ
+Arkansas,"May 26, 2021",287075,49791,12.8,2.2,31 ,May 26, 2021,AR
+California,"May 26, 2021",9020863,560407,30.6,1.9,31 ,May 26, 2021,CA
+Colorado,"May 26, 2021",1381353,136109,31.0,3.0,31 ,May 26, 2021,CO
+Connecticut,"May 26, 2021",875287,87625,33.0,3.2,31 ,May 26, 2021,CT
+Delaware,"May 26, 2021",205483,23840,27.3,3.1,31 ,May 26, 2021,DE
+District of Columbia,"May 26, 2021",296017,19678,55.0,3.6,31 ,May 26, 2021,DC
+Florida,"May 26, 2021",3561852,346474,20.9,2.1,31 ,May 26, 2021,FL
+Georgia,"May 26, 2021",1865137,190859,23.4,2.4,31 ,May 26, 2021,GA
+Hawaii,"May 26, 2021",224112,35076,21.2,3.3,31 ,May 26, 2021,HI
+Idaho,"May 26, 2021",240174,43553,17.6,3.2,31 ,May 26, 2021,ID
+Illinois,"May 26, 2021",2576817,230164,27.5,2.5,31 ,May 26, 2021,IL
+Indiana,"May 26, 2021",930655,91177,18.8,1.8,31 ,May 26, 2021,IN
+Iowa,"May 26, 2021",453972,60075,19.5,2.6,31 ,May 26, 2021,IA
+Kansas,"May 26, 2021",471841,48955,22.4,2.3,31 ,May 26, 2021,KS
+Kentucky,"May 26, 2021",605855,100041,18.4,3.1,31 ,May 26, 2021,KY
+Louisiana,"May 26, 2021",378029,75917,11.3,2.2,31 ,May 26, 2021,LA
+Maine,"May 26, 2021",222128,29184,20.9,2.8,31 ,May 26, 2021,ME
+Maryland,"May 26, 2021",1677172,130107,37.0,2.8,31 ,May 26, 2021,MD
+Massachusetts,"May 26, 2021",1982655,114780,37.8,2.2,31 ,May 26, 2021,MA
+Michigan,"May 26, 2021",1733091,151983,23.1,2.0,31 ,May 26, 2021,MI
+Minnesota,"May 26, 2021",1321781,108356,31.2,2.6,31 ,May 26, 2021,MN
+Mississippi,"May 26, 2021",250001,58317,11.8,2.8,31 ,May 26, 2021,MS
+Missouri,"May 26, 2021",992184,99518,21.7,2.2,31 ,May 26, 2021,MO
+Montana,"May 26, 2021",117429,24454,14.2,2.9,31 ,May 26, 2021,MT
+Nebraska,"May 26, 2021",306372,41658,21.8,3.0,31 ,May 26, 2021,NE
+Nevada,"May 26, 2021",416815,51840,17.4,2.2,31 ,May 26, 2021,NV
+New Hampshire,"May 26, 2021",299932,33954,27.9,3.2,31 ,May 26, 2021,NH
+New Jersey,"May 26, 2021",2132607,194942,32.3,3.0,31 ,May 26, 2021,NJ
+New Mexico,"May 26, 2021",356141,51668,22.5,3.2,31 ,May 26, 2021,NM
+New York,"May 26, 2021",3717866,395787,25.6,2.7,31 ,May 26, 2021,NY
+North Carolina,"May 26, 2021",1826836,229644,22.7,2.8,31 ,May 26, 2021,NC
+North Dakota,"May 26, 2021",81600,20022,14.8,3.6,31 ,May 26, 2021,ND
+Ohio,"May 26, 2021",1524760,157601,17.6,1.8,31 ,May 26, 2021,OH
+Oklahoma,"May 26, 2021",474424,77913,16.3,2.7,31 ,May 26, 2021,OK
+Oregon,"May 26, 2021",877813,65210,26.7,1.9,31 ,May 26, 2021,OR
+Pennsylvania,"May 26, 2021",2548000,237795,26.4,2.5,31 ,May 26, 2021,PA
+Rhode Island,"May 26, 2021",231543,39105,28.9,4.9,31 ,May 26, 2021,RI
+South Carolina,"May 26, 2021",672809,116598,17.0,2.9,31 ,May 26, 2021,SC
+South Dakota,"May 26, 2021",82421,16732,12.8,2.6,31 ,May 26, 2021,SD
+Tennessee,"May 26, 2021",779179,121574,15.1,2.4,31 ,May 26, 2021,TN
+Texas,"May 26, 2021",4752652,311253,22.1,1.5,31 ,May 26, 2021,TX
+Utah,"May 26, 2021",677051,44572,29.4,2.0,31 ,May 26, 2021,UT
+Vermont,"May 26, 2021",133742,18650,27.6,3.8,31 ,May 26, 2021,VT
+Virginia,"May 26, 2021",1942598,149460,30.1,2.3,31 ,May 26, 2021,VA
+Washington,"May 26, 2021",1814457,109127,30.9,1.9,31 ,May 26, 2021,WA
+West Virginia,"May 26, 2021",184400,33247,13.6,2.5,31 ,May 26, 2021,WV
+Wisconsin,"May 26, 2021",884108,91447,19.9,2.1,31 ,May 26, 2021,WI
+Wyoming,"May 26, 2021",58754,14006,13.6,3.3,31 ,May 26, 2021,WY
+Alabama,"June 9, 2021",531385,104542,14.4,2.8,32 ,June 9, 2021,AL
+Alaska,"June 9, 2021",83553,11947,16.1,2.3,32 ,June 9, 2021,AK
+Arizona,"June 9, 2021",1471318,133589,25.7,2.4,32 ,June 9, 2021,AZ
+Arkansas,"June 9, 2021",297316,50463,13.2,2.2,32 ,June 9, 2021,AR
+California,"June 9, 2021",8218402,471367,27.9,1.6,32 ,June 9, 2021,CA
+Colorado,"June 9, 2021",1310021,117205,29.3,2.7,32 ,June 9, 2021,CO
+Connecticut,"June 9, 2021",707643,60649,26.2,2.2,32 ,June 9, 2021,CT
+Delaware,"June 9, 2021",204071,27978,26.7,3.7,32 ,June 9, 2021,DE
+District of Columbia,"June 9, 2021",283820,13226,52.2,2.4,32 ,June 9, 2021,DC
+Florida,"June 9, 2021",2771090,349491,16.2,2.0,32 ,June 9, 2021,FL
+Georgia,"June 9, 2021",1806582,184025,22.8,2.3,32 ,June 9, 2021,GA
+Hawaii,"June 9, 2021",204223,39111,19.5,3.7,32 ,June 9, 2021,HI
+Idaho,"June 9, 2021",288720,40637,21.3,3.0,32 ,June 9, 2021,ID
+Illinois,"June 9, 2021",2370978,206203,25.2,2.2,32 ,June 9, 2021,IL
+Indiana,"June 9, 2021",703310,110061,14.1,2.2,32 ,June 9, 2021,IN
+Iowa,"June 9, 2021",407752,57184,17.5,2.5,32 ,June 9, 2021,IA
+Kansas,"June 9, 2021",460114,58806,21.5,2.7,32 ,June 9, 2021,KS
+Kentucky,"June 9, 2021",479083,71945,14.5,2.1,32 ,June 9, 2021,KY
+Louisiana,"June 9, 2021",487669,114925,14.6,3.4,32 ,June 9, 2021,LA
+Maine,"June 9, 2021",232549,39052,21.8,3.7,32 ,June 9, 2021,ME
+Maryland,"June 9, 2021",1537445,100596,33.7,2.2,32 ,June 9, 2021,MD
+Massachusetts,"June 9, 2021",1872583,114468,35.8,2.2,32 ,June 9, 2021,MA
+Michigan,"June 9, 2021",1541297,150533,20.4,2.0,32 ,June 9, 2021,MI
+Minnesota,"June 9, 2021",1208676,129408,28.5,3.1,32 ,June 9, 2021,MN
+Mississippi,"June 9, 2021",199664,50156,9.2,2.3,32 ,June 9, 2021,MS
+Missouri,"June 9, 2021",926050,112125,20.1,2.4,32 ,June 9, 2021,MO
+Montana,"June 9, 2021",115075,24596,14.1,3.0,32 ,June 9, 2021,MT
+Nebraska,"June 9, 2021",278954,37119,19.9,2.7,32 ,June 9, 2021,NE
+Nevada,"June 9, 2021",448638,66008,18.5,2.7,32 ,June 9, 2021,NV
+New Hampshire,"June 9, 2021",281716,30212,26.2,2.8,32 ,June 9, 2021,NH
+New Jersey,"June 9, 2021",2189662,188658,32.9,2.8,32 ,June 9, 2021,NJ
+New Mexico,"June 9, 2021",320779,50173,20.1,3.1,32 ,June 9, 2021,NM
+New York,"June 9, 2021",4024218,442111,27.7,3.0,32 ,June 9, 2021,NY
+North Carolina,"June 9, 2021",1702797,191058,21.1,2.4,32 ,June 9, 2021,NC
+North Dakota,"June 9, 2021",73667,16954,13.2,3.0,32 ,June 9, 2021,ND
+Ohio,"June 9, 2021",1810184,230885,20.7,2.7,32 ,June 9, 2021,OH
+Oklahoma,"June 9, 2021",470819,100797,16.3,3.5,32 ,June 9, 2021,OK
+Oregon,"June 9, 2021",973465,75558,29.6,2.3,32 ,June 9, 2021,OR
+Pennsylvania,"June 9, 2021",2668715,279575,28.2,3.0,32 ,June 9, 2021,PA
+Rhode Island,"June 9, 2021",172484,25846,21.3,3.2,32 ,June 9, 2021,RI
+South Carolina,"June 9, 2021",526436,82989,13.1,2.1,32 ,June 9, 2021,SC
+South Dakota,"June 9, 2021",77278,16307,12.3,2.6,32 ,June 9, 2021,SD
+Tennessee,"June 9, 2021",1062368,138149,20.5,2.6,32 ,June 9, 2021,TN
+Texas,"June 9, 2021",5029443,471238,23.5,2.2,32 ,June 9, 2021,TX
+Utah,"June 9, 2021",787213,66769,34.2,2.9,32 ,June 9, 2021,UT
+Vermont,"June 9, 2021",114762,17327,24.0,3.6,32 ,June 9, 2021,VT
+Virginia,"June 9, 2021",1802213,136640,27.8,2.1,32 ,June 9, 2021,VA
+Washington,"June 9, 2021",1902029,125299,32.5,2.1,32 ,June 9, 2021,WA
+West Virginia,"June 9, 2021",163706,46021,12.0,3.4,32 ,June 9, 2021,WV
+Wisconsin,"June 9, 2021",987240,94026,22.4,2.2,32 ,June 9, 2021,WI
+Wyoming,"June 9, 2021",42819,11834,9.8,2.7,32 ,June 9, 2021,WY
+Alabama,"June 23, 2021",566468,108211,15.4,2.9,33 ,June 23, 2021,AL
+Alaska,"June 23, 2021",89991,12271,17.3,2.4,33 ,June 23, 2021,AK
+Arizona,"June 23, 2021",1399262,136596,24.5,2.4,33 ,June 23, 2021,AZ
+Arkansas,"June 23, 2021",324622,61408,14.6,2.7,33 ,June 23, 2021,AR
+California,"June 23, 2021",8419160,461930,28.6,1.6,33 ,June 23, 2021,CA
+Colorado,"June 23, 2021",1319273,122823,29.8,2.7,33 ,June 23, 2021,CO
+Connecticut,"June 23, 2021",675091,59827,25.3,2.3,33 ,June 23, 2021,CT
+Delaware,"June 23, 2021",207665,37748,27.2,5.0,33 ,June 23, 2021,DE
+District of Columbia,"June 23, 2021",292911,24272,53.8,4.4,33 ,June 23, 2021,DC
+Florida,"June 23, 2021",2930895,313942,17.2,1.8,33 ,June 23, 2021,FL
+Georgia,"June 23, 2021",1751828,184371,22.1,2.3,33 ,June 23, 2021,GA
+Hawaii,"June 23, 2021",199113,34609,18.8,3.3,33 ,June 23, 2021,HI
+Idaho,"June 23, 2021",214688,35420,15.7,2.6,33 ,June 23, 2021,ID
+Illinois,"June 23, 2021",2442426,231139,26.3,2.6,33 ,June 23, 2021,IL
+Indiana,"June 23, 2021",837137,103567,16.8,2.1,33 ,June 23, 2021,IN
+Iowa,"June 23, 2021",374737,46302,16.1,2.0,33 ,June 23, 2021,IA
+Kansas,"June 23, 2021",447057,55300,20.9,2.6,33 ,June 23, 2021,KS
+Kentucky,"June 23, 2021",473077,79538,14.4,2.4,33 ,June 23, 2021,KY
+Louisiana,"June 23, 2021",515815,92522,15.2,2.7,33 ,June 23, 2021,LA
+Maine,"June 23, 2021",173144,23381,16.4,2.2,33 ,June 23, 2021,ME
+Maryland,"June 23, 2021",1564183,131285,34.6,2.9,33 ,June 23, 2021,MD
+Massachusetts,"June 23, 2021",1964968,154284,37.7,2.9,33 ,June 23, 2021,MA
+Michigan,"June 23, 2021",1619715,132456,21.6,1.8,33 ,June 23, 2021,MI
+Minnesota,"June 23, 2021",1272180,96089,30.1,2.3,33 ,June 23, 2021,MN
+Mississippi,"June 23, 2021",199729,45090,9.3,2.1,33 ,June 23, 2021,MS
+Missouri,"June 23, 2021",922548,122273,20.2,2.7,33 ,June 23, 2021,MO
+Montana,"June 23, 2021",143052,30363,17.6,3.6,33 ,June 23, 2021,MT
+Nebraska,"June 23, 2021",350413,47772,25.2,3.4,33 ,June 23, 2021,NE
+Nevada,"June 23, 2021",420204,73751,17.4,3.0,33 ,June 23, 2021,NV
+New Hampshire,"June 23, 2021",277811,33537,26.0,3.2,33 ,June 23, 2021,NH
+New Jersey,"June 23, 2021",2152281,180417,32.0,2.7,33 ,June 23, 2021,NJ
+New Mexico,"June 23, 2021",274138,38089,17.3,2.4,33 ,June 23, 2021,NM
+New York,"June 23, 2021",4062349,586252,28.0,4.0,33 ,June 23, 2021,NY
+North Carolina,"June 23, 2021",1565769,265486,19.7,3.3,33 ,June 23, 2021,NC
+North Dakota,"June 23, 2021",77170,19966,13.8,3.6,33 ,June 23, 2021,ND
+Ohio,"June 23, 2021",1756006,211515,20.6,2.6,33 ,June 23, 2021,OH
+Oklahoma,"June 23, 2021",477814,110676,16.3,3.8,33 ,June 23, 2021,OK
+Oregon,"June 23, 2021",808800,55372,24.5,1.7,33 ,June 23, 2021,OR
+Pennsylvania,"June 23, 2021",2243659,191193,23.4,2.0,33 ,June 23, 2021,PA
+Rhode Island,"June 23, 2021",195308,26309,24.2,3.2,33 ,June 23, 2021,RI
+South Carolina,"June 23, 2021",675285,136105,17.1,3.5,33 ,June 23, 2021,SC
+South Dakota,"June 23, 2021",81176,15949,12.7,2.5,33 ,June 23, 2021,SD
+Tennessee,"June 23, 2021",1023524,168884,19.4,3.2,33 ,June 23, 2021,TN
+Texas,"June 23, 2021",4485578,360792,21.1,1.7,33 ,June 23, 2021,TX
+Utah,"June 23, 2021",661100,52773,29.0,2.4,33 ,June 23, 2021,UT
+Vermont,"June 23, 2021",148955,20839,30.8,4.3,33 ,June 23, 2021,VT
+Virginia,"June 23, 2021",2014023,168803,31.3,2.7,33 ,June 23, 2021,VA
+Washington,"June 23, 2021",1689146,119390,28.6,2.0,33 ,June 23, 2021,WA
+West Virginia,"June 23, 2021",202385,37136,15.0,2.7,33 ,June 23, 2021,WV
+Wisconsin,"June 23, 2021",935674,128286,21.3,2.9,33 ,June 23, 2021,WI
+Wyoming,"June 23, 2021",76629,17549,17.6,4.0,33 ,June 23, 2021,WY
+"Atlanta-Sandy Springs-Alpharetta, GA Metro Area","April 14, 2021",1531083,202380,33.5,3.7,28 ,April 14, 2021,
+"Boston-Cambridge-Newton, MA-NH Metro Area","April 14, 2021",1731244,131801,46.3,2.8,28 ,April 14, 2021,
+"Chicago-Naperville-Elgin, IL-IN-WI Metro Area","April 14, 2021",2360980,187911,34.9,2.7,28 ,April 14, 2021,
+"Dallas-Fort Worth-Arlington, TX Metro Area","April 14, 2021",1902318,218624,31.4,3.8,28 ,April 14, 2021,
+"Detroit-Warren-Dearborn, MI Metro Area","April 14, 2021",1106584,103824,31.3,2.6,28 ,April 14, 2021,
+"Houston-The Woodlands-Sugar Land, TX Metro Area","April 14, 2021",1334161,175604,23.1,3.1,28 ,April 14, 2021,
+"Los Angeles-Long Beach-Anaheim, CA Metro Area","April 14, 2021",3409500,314708,32.7,2.9,28 ,April 14, 2021,
+"Miami-Fort Lauderdale-Pompano Beach, FL Metro Area","April 14, 2021",1396042,188449,29.2,3.8,28 ,April 14, 2021,
+"New York-Newark-Jersey City, NY-NJ-PA Metro Area","April 14, 2021",4434477,380431,33.8,2.9,28 ,April 14, 2021,
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area","April 14, 2021",1654518,142940,34.3,2.6,28 ,April 14, 2021,
+"Phoenix-Mesa-Chandler, AZ Metro Area","April 14, 2021",1171973,153517,29.6,3.7,28 ,April 14, 2021,
+"Riverside-San Bernardino-Ontario, CA Metro Area","April 14, 2021",863771,117942,20.2,2.8,28 ,April 14, 2021,
+"San Francisco-Oakland-Berkeley, CA Metro Area","April 14, 2021",1639956,151321,46.8,3.3,28 ,April 14, 2021,
+"Seattle-Tacoma-Bellevue, WA Metro Area","April 14, 2021",1293757,105844,38.3,2.8,28 ,April 14, 2021,
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area","April 14, 2021",2358388,152911,51.0,2.4,28 ,April 14, 2021,
+"Atlanta-Sandy Springs-Alpharetta, GA Metro Area","April 28, 2021",1415791,159496,28.6,3.0,29 ,April 28, 2021,
+"Boston-Cambridge-Newton, MA-NH Metro Area","April 28, 2021",1517714,99970,41.5,2.5,29 ,April 28, 2021,
+"Chicago-Naperville-Elgin, IL-IN-WI Metro Area","April 28, 2021",2310978,215458,33.5,3.1,29 ,April 28, 2021,
+"Dallas-Fort Worth-Arlington, TX Metro Area","April 28, 2021",1721553,149637,28.4,2.8,29 ,April 28, 2021,
+"Detroit-Warren-Dearborn, MI Metro Area","April 28, 2021",1084129,105109,31.9,2.9,29 ,April 28, 2021,
+"Houston-The Woodlands-Sugar Land, TX Metro Area","April 28, 2021",1265605,203946,24.4,3.6,29 ,April 28, 2021,
+"Los Angeles-Long Beach-Anaheim, CA Metro Area","April 28, 2021",3515383,292388,34.3,2.7,29 ,April 28, 2021,
+"Miami-Fort Lauderdale-Pompano Beach, FL Metro Area","April 28, 2021",1120032,180371,24.6,3.2,29 ,April 28, 2021,
+"New York-Newark-Jersey City, NY-NJ-PA Metro Area","April 28, 2021",4524304,332820,32.9,2.3,29 ,April 28, 2021,
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area","April 28, 2021",1588653,141201,32.2,2.5,29 ,April 28, 2021,
+"Phoenix-Mesa-Chandler, AZ Metro Area","April 28, 2021",1243197,154313,31.8,4.0,29 ,April 28, 2021,
+"Riverside-San Bernardino-Ontario, CA Metro Area","April 28, 2021",796447,149380,20.6,3.5,29 ,April 28, 2021,
+"San Francisco-Oakland-Berkeley, CA Metro Area","April 28, 2021",1489622,136553,46.3,3.9,29 ,April 28, 2021,
+"Seattle-Tacoma-Bellevue, WA Metro Area","April 28, 2021",1385956,86301,44.4,1.9,29 ,April 28, 2021,
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area","April 28, 2021",2249239,137640,50.2,2.4,29 ,April 28, 2021,
+"Atlanta-Sandy Springs-Alpharetta, GA Metro Area","May 12, 2021",1317122,113207,28.4,2.6,30 ,May 12, 2021,
+"Boston-Cambridge-Newton, MA-NH Metro Area","May 12, 2021",1472681,101052,39.6,2.7,30 ,May 12, 2021,
+"Chicago-Naperville-Elgin, IL-IN-WI Metro Area","May 12, 2021",2543639,202847,36.7,2.5,30 ,May 12, 2021,
+"Dallas-Fort Worth-Arlington, TX Metro Area","May 12, 2021",1703234,238686,26.8,3.4,30 ,May 12, 2021,
+"Detroit-Warren-Dearborn, MI Metro Area","May 12, 2021",904020,97123,26.3,2.8,30 ,May 12, 2021,
+"Houston-The Woodlands-Sugar Land, TX Metro Area","May 12, 2021",1229567,209549,22.1,3.3,30 ,May 12, 2021,
+"Los Angeles-Long Beach-Anaheim, CA Metro Area","May 12, 2021",2886176,295437,28.5,2.5,30 ,May 12, 2021,
+"Miami-Fort Lauderdale-Pompano Beach, FL Metro Area","May 12, 2021",1280325,189454,26.4,3.3,30 ,May 12, 2021,
+"New York-Newark-Jersey City, NY-NJ-PA Metro Area","May 12, 2021",4823600,409471,34.5,2.8,30 ,May 12, 2021,
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area","May 12, 2021",1457530,109789,29.7,2.1,30 ,May 12, 2021,
+"Phoenix-Mesa-Chandler, AZ Metro Area","May 12, 2021",1241692,110562,30.0,2.7,30 ,May 12, 2021,
+"Riverside-San Bernardino-Ontario, CA Metro Area","May 12, 2021",847033,135571,19.8,3.2,30 ,May 12, 2021,
+"San Francisco-Oakland-Berkeley, CA Metro Area","May 12, 2021",1621541,160879,46.4,3.5,30 ,May 12, 2021,
+"Seattle-Tacoma-Bellevue, WA Metro Area","May 12, 2021",1351229,89093,43.5,3.4,30 ,May 12, 2021,
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area","May 12, 2021",2233744,129779,49.6,2.8,30 ,May 12, 2021,
+"Atlanta-Sandy Springs-Alpharetta, GA Metro Area","May 26, 2021",1466905,166302,32.6,3.5,31 ,May 26, 2021,
+"Boston-Cambridge-Newton, MA-NH Metro Area","May 26, 2021",1546340,97187,43.1,2.6,31 ,May 26, 2021,
+"Chicago-Naperville-Elgin, IL-IN-WI Metro Area","May 26, 2021",2262137,206957,31.6,3.0,31 ,May 26, 2021,
+"Dallas-Fort Worth-Arlington, TX Metro Area","May 26, 2021",1671454,203327,28.2,3.2,31 ,May 26, 2021,
+"Detroit-Warren-Dearborn, MI Metro Area","May 26, 2021",984585,136003,26.2,3.8,31 ,May 26, 2021,
+"Houston-The Woodlands-Sugar Land, TX Metro Area","May 26, 2021",1229512,163807,22.7,3.2,31 ,May 26, 2021,
+"Los Angeles-Long Beach-Anaheim, CA Metro Area","May 26, 2021",2925806,368366,28.0,3.2,31 ,May 26, 2021,
+"Miami-Fort Lauderdale-Pompano Beach, FL Metro Area","May 26, 2021",1321984,178133,28.2,3.1,31 ,May 26, 2021,
+"New York-Newark-Jersey City, NY-NJ-PA Metro Area","May 26, 2021",4246511,408938,30.7,3.0,31 ,May 26, 2021,
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area","May 26, 2021",1475464,179526,28.7,3.1,31 ,May 26, 2021,
+"Phoenix-Mesa-Chandler, AZ Metro Area","May 26, 2021",1096404,134014,27.6,3.3,31 ,May 26, 2021,
+"Riverside-San Bernardino-Ontario, CA Metro Area","May 26, 2021",836479,172759,20.4,3.6,31 ,May 26, 2021,
+"San Francisco-Oakland-Berkeley, CA Metro Area","May 26, 2021",1406990,120601,42.4,3.6,31 ,May 26, 2021,
+"Seattle-Tacoma-Bellevue, WA Metro Area","May 26, 2021",1262178,99179,39.6,3.0,31 ,May 26, 2021,
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area","May 26, 2021",2085333,158370,47.1,2.8,31 ,May 26, 2021,
+"Atlanta-Sandy Springs-Alpharetta, GA Metro Area","June 9, 2021",1403855,158637,30.3,2.8,32 ,June 9, 2021,
+"Boston-Cambridge-Newton, MA-NH Metro Area","June 9, 2021",1386159,95118,37.0,2.4,32 ,June 9, 2021,
+"Chicago-Naperville-Elgin, IL-IN-WI Metro Area","June 9, 2021",1929713,182937,27.4,2.5,32 ,June 9, 2021,
+"Dallas-Fort Worth-Arlington, TX Metro Area","June 9, 2021",1742112,277611,32.3,4.5,32 ,June 9, 2021,
+"Detroit-Warren-Dearborn, MI Metro Area","June 9, 2021",849338,117298,24.8,3.4,32 ,June 9, 2021,
+"Houston-The Woodlands-Sugar Land, TX Metro Area","June 9, 2021",1381394,224988,23.0,3.2,32 ,June 9, 2021,
+"Los Angeles-Long Beach-Anaheim, CA Metro Area","June 9, 2021",2942958,281467,27.8,2.5,32 ,June 9, 2021,
+"Miami-Fort Lauderdale-Pompano Beach, FL Metro Area","June 9, 2021",852125,127844,17.7,2.3,32 ,June 9, 2021,
+"New York-Newark-Jersey City, NY-NJ-PA Metro Area","June 9, 2021",4672446,398030,34.2,2.7,32 ,June 9, 2021,
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area","June 9, 2021",1633966,179823,32.3,3.3,32 ,June 9, 2021,
+"Phoenix-Mesa-Chandler, AZ Metro Area","June 9, 2021",1199491,135134,29.2,3.1,32 ,June 9, 2021,
+"Riverside-San Bernardino-Ontario, CA Metro Area","June 9, 2021",680135,100968,18.8,2.7,32 ,June 9, 2021,
+"San Francisco-Oakland-Berkeley, CA Metro Area","June 9, 2021",1349539,115878,40.9,3.5,32 ,June 9, 2021,
+"Seattle-Tacoma-Bellevue, WA Metro Area","June 9, 2021",1287447,102424,41.3,3.0,32 ,June 9, 2021,
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area","June 9, 2021",1872146,128773,41.7,2.4,32 ,June 9, 2021,
+"Atlanta-Sandy Springs-Alpharetta, GA Metro Area","June 23, 2021",1123946,100593,26.3,2.4,33 ,June 23, 2021,
+"Boston-Cambridge-Newton, MA-NH Metro Area","June 23, 2021",1628750,149417,43.3,3.3,33 ,June 23, 2021,
+"Chicago-Naperville-Elgin, IL-IN-WI Metro Area","June 23, 2021",2007036,188057,28.8,2.7,33 ,June 23, 2021,
+"Dallas-Fort Worth-Arlington, TX Metro Area","June 23, 2021",1742232,203568,28.8,3.0,33 ,June 23, 2021,
+"Detroit-Warren-Dearborn, MI Metro Area","June 23, 2021",900335,88151,24.8,2.9,33 ,June 23, 2021,
+"Houston-The Woodlands-Sugar Land, TX Metro Area","June 23, 2021",882749,122909,15.6,2.3,33 ,June 23, 2021,
+"Los Angeles-Long Beach-Anaheim, CA Metro Area","June 23, 2021",3278143,349684,31.5,3.0,33 ,June 23, 2021,
+"Miami-Fort Lauderdale-Pompano Beach, FL Metro Area","June 23, 2021",938543,144554,19.3,2.8,33 ,June 23, 2021,
+"New York-Newark-Jersey City, NY-NJ-PA Metro Area","June 23, 2021",4715504,532535,33.6,3.7,33 ,June 23, 2021,
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area","June 23, 2021",1502364,143799,31.0,3.1,33 ,June 23, 2021,
+"Phoenix-Mesa-Chandler, AZ Metro Area","June 23, 2021",1152702,117677,28.7,2.9,33 ,June 23, 2021,
+"Riverside-San Bernardino-Ontario, CA Metro Area","June 23, 2021",709772,138910,19.1,3.5,33 ,June 23, 2021,
+"San Francisco-Oakland-Berkeley, CA Metro Area","June 23, 2021",1554184,171964,42.6,4.2,33 ,June 23, 2021,
+"Seattle-Tacoma-Bellevue, WA Metro Area","June 23, 2021",1183795,95261,36.0,2.8,33 ,June 23, 2021,
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area","June 23, 2021",2023661,130164,43.6,3.1,33 ,June 23, 2021,
